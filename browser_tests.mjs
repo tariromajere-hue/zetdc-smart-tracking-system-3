@@ -1,0 +1,33 @@
+import {chromium} from 'playwright';import fs from 'node:fs';
+const root='evidence';const b=await chromium.launch({channel:'chrome',headless:true});const results=[];let p=await b.newPage({viewport:{width:1440,height:1000}});let errors=[];p.on('pageerror',e=>errors.push(e.message));
+async function test(name,fn){try{await fn();results.push({name,passed:true});}catch(e){results.push({name,passed:false,error:e.message});}}
+async function login(name){await p.goto('http://127.0.0.1:8770');await p.locator('#login input[name=username]').fill(name);await p.locator('#login input[name=password]').fill('Prototype-Test-2026!');await p.locator('#login button').click();await p.locator('#workspace').waitFor({state:'visible'});}
+await login('manager');
+await test('Dashboard loads 100 meters',async()=>{if(!(await p.locator('#metrics').innerText()).includes('100'))throw Error('Missing register count');});
+await test('Three-day policy is visible',async()=>{if(!(await p.locator('body').innerText()).includes('three calendar days'))throw Error('Policy absent');});
+await p.screenshot({path:root+'/dashboard.png',fullPage:false});
+await p.locator('[data-tab=notifications]').click();await p.locator('#alerts').click();await p.waitForTimeout(1000);
+await test('Separate simulated email and WhatsApp statuses',async()=>{const t=await p.locator('#notificationTable').innerText();if(!['email','whatsapp','simulated','available'].every(x=>t.includes(x)))throw Error('Statuses missing');});
+await p.screenshot({path:root+'/notifications.png'});
+await p.locator('#logout').click();await p.locator('#loginPanel').waitFor({state:'visible'});await login('procurement');await p.locator('[data-tab=custody]').click();
+await test('Custody form requires both password fields',async()=>{if(await p.locator('#handover input[type=password]').count()!==2)throw Error('Missing authentication field');});
+await p.screenshot({path:root+'/handover.png'});await p.locator('#logout').click();await p.locator('#loginPanel').waitFor({state:'visible'});await login('installer');await p.locator('[data-tab=scan]').click();
+await p.locator('#scanID').fill('UNKNOWN');await p.locator('#lookup button').click();
+await test('Unknown barcode rejected in browser',async()=>{await p.getByRole('status').filter({hasText:'Unknown meter'}).waitFor();});
+await p.locator('#scanID').fill('DEMO-0001');await p.locator('#lookup button').click();await p.locator('#commission').waitFor({state:'visible'});
+await p.locator('#commission input[name=account]').fill('ACC-0001');await p.locator('#commission input[name=ct]').fill('100/5');await p.locator('#commission input[type=checkbox]').check();await p.locator('#commission button').click();
+await test('Valid scan connects only with simulator receipt',async()=>{await p.locator('#connectionResult').filter({hasText:'SIM-'}).waitFor();if(!(await p.locator('#connectionResult').innerText()).includes('connected'))throw Error('Not connected');});
+await p.screenshot({path:root+'/connection.png'});
+await p.locator('#scanID').fill('DEMO-0064');await p.locator('#lookup button').click();await p.waitForTimeout(300);await p.locator('#commission input[name=account]').fill('ACC-0064');await p.locator('#commission button').click();
+await test('Failed connection shows manual HES queue',async()=>{await p.locator('#connectionResult').filter({hasText:'manual_required'}).waitFor();});
+await p.locator('#message').filter({hasText:'Unconnected. HES team notifications queued'}).waitFor();await p.screenshot({path:root+'/failed-connection.png'});
+await p.locator('#logout').click();await p.locator('#loginPanel').waitFor({state:'visible'});await login('hes_officer');await p.locator('[data-tab=manual]').click();await p.locator('#manual input[name=reference]').fill('SIM-MANUAL-DEMO-0064');await p.locator('#manual input[name=password]').fill('Prototype-Test-2026!');await p.locator('#manual button').click();
+await test('HES officer verifies manual confirmation',async()=>{await p.locator('#message').filter({hasText:'manual HES confirmation verified'}).waitFor();});
+await p.screenshot({path:root+'/manual.png'});
+await p.locator('#logout').click();await p.locator('#loginPanel').waitFor({state:'visible'});await login('installer');await p.setViewportSize({width:390,height:844});await p.locator('[data-tab=scan]').click();
+await test('Mobile scanner fits viewport',async()=>{if(await p.evaluate(()=>document.documentElement.scrollWidth>innerWidth))throw Error('Horizontal overflow');});
+await p.evaluate(()=>{navigator.mediaDevices.getUserMedia=()=>Promise.reject(new DOMException('Permission denied for controlled test','NotAllowedError'));});await p.locator('#camera').click();await p.waitForTimeout(1000);
+await test('Unavailable camera retains manual and photo fallback',async()=>{if(!(await p.locator('#scanStatus').innerText()).includes('Camera unavailable'))throw Error('No failure explanation');await p.locator('#scanID').fill('DEMO-0002');});
+await p.screenshot({path:root+'/mobile.png',fullPage:true});
+await test('No uncaught browser runtime errors',async()=>{if(errors.length)throw Error(errors.join(';'));});
+fs.writeFileSync(root+'/browser_checks.json',JSON.stringify(results,null,2));console.log(results);await b.close();if(results.some(x=>!x.passed))process.exitCode=1;

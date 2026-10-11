@@ -1,0 +1,38 @@
+{
+  "evaluation": "fixed development scenarios, not field observations",
+  "acceptance_target_percent": 90,
+  "functional_checks": 54,
+  "functional_passed": 54,
+  "groups": {
+    "API": {
+      "passed": 7,
+      "total": 7
+    },
+    "Commissioning": {
+      "passed": 16,
+      "total": 16
+    },
+    "Notifications": {
+      "passed": 3,
+      "total": 3
+    },
+    "Tracking": {
+      "passed": 28,
+      "total": 28
+    }
+  },
+  "commissioning_scenarios": 80,
+  "correct_scenario_outcomes": 80,
+  "automatic_connections": 60,
+  "automatic_connection_rate_percent": 75,
+  "manual_required": 20,
+  "manual_confirmations": 20,
+  "connection_time_ms": {
+    "median": 10.750499999630847,
+    "max": 13.648199997987831
+  },
+  "live_hes_tests": 0,
+  "live_email_deliveries": 0,
+  "live_whatsapp_deliveries": 0,
+  "physical_phone_tests": 0
+}

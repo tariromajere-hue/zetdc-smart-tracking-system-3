@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Streamlit sign-in renders",
+    "passed": true
+  },
+  {
+    "name": "Streamlit authenticated commissioning console renders",
+    "passed": true
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "meter": "DEMO-0001",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0001",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0002",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0002",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0003",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0003",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0004",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0004",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0005",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0005",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0006",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0006",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0007",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0007",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0008",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0008",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0009",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0009",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0010",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0010",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0011",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0011",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0012",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0012",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0013",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0013",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0014",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0014",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0015",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0015",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0016",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0016",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0017",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0017",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0018",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0018",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0019",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0019",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0020",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0020",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0021",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0021",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0022",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0022",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0023",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0023",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0024",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0024",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0025",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0025",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0026",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0026",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0027",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0027",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0028",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0028",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0029",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0029",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0030",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0030",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0031",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0031",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0032",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0032",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0033",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0033",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0034",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0034",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0035",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0035",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0036",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0036",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0037",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0037",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0038",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0038",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0039",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0039",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0040",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0040",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0041",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0041",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0042",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0042",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0043",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0043",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0044",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0044",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0045",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0045",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0046",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0046",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0047",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0047",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0048",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0048",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0049",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0049",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0050",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0050",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0051",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0051",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0052",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0052",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0053",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0053",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0054",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0054",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0055",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0055",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0056",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0056",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0057",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0057",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0058",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0058",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0059",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0059",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0060",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0060",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0061",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0061",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0062",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0062",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0063",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0063",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0064",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0064",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0065",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0065",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0066",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0066",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0067",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0067",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0068",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0068",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0069",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0069",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0070",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0070",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0071",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0071",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0072",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0072",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0073",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0073",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0074",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0074",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0075",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0075",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0076",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0076",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0077",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0077",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0078",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0078",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0079",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0079",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0080",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0080",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0081",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0081",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0082",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0082",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0083",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0083",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0084",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0084",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0085",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0085",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0086",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0086",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0087",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0087",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0088",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0088",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0089",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0089",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0090",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0090",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0091",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0091",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0092",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0092",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0093",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0093",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0094",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0094",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0095",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0095",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0096",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0096",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0097",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0097",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0098",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0098",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0099",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0099",
+    "format": "QR",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0100",
+    "format": "Code128",
+    "passed": true
+  },
+  {
+    "meter": "DEMO-0100",
+    "format": "QR",
+    "passed": true
+  }
+]

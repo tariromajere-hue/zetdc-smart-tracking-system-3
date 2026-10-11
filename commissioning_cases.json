@@ -1,0 +1,802 @@
+[
+  {
+    "meter_id": "DEMO-0001",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 13.648199997987831,
+    "whole_call_ms": 33.668500000203494
+  },
+  {
+    "meter_id": "DEMO-0002",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.569899997790344,
+    "whole_call_ms": 29.412699997919844
+  },
+  {
+    "meter_id": "DEMO-0003",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 9.423199997399934,
+    "whole_call_ms": 27.49709999989136
+  },
+  {
+    "meter_id": "DEMO-0004",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 12.762099999235943,
+    "whole_call_ms": 32.73030000127619
+  },
+  {
+    "meter_id": "DEMO-0005",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 11.055099999794038,
+    "whole_call_ms": 29.283699997904478
+  },
+  {
+    "meter_id": "DEMO-0006",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.73270000051707,
+    "whole_call_ms": 31.512600002315594
+  },
+  {
+    "meter_id": "DEMO-0007",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.595000003377208,
+    "whole_call_ms": 29.461400001309812
+  },
+  {
+    "meter_id": "DEMO-0008",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 11.370299998816336,
+    "whole_call_ms": 28.74829999927897
+  },
+  {
+    "meter_id": "DEMO-0009",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 8.61119999899529,
+    "whole_call_ms": 27.88670000154525
+  },
+  {
+    "meter_id": "DEMO-0010",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.252100000798237,
+    "whole_call_ms": 31.004600001324434
+  },
+  {
+    "meter_id": "DEMO-0011",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.768299998744624,
+    "whole_call_ms": 29.345200000534533
+  },
+  {
+    "meter_id": "DEMO-0012",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.894200000620913,
+    "whole_call_ms": 30.63269999984186
+  },
+  {
+    "meter_id": "DEMO-0013",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.595299998385599,
+    "whole_call_ms": 28.69020000071032
+  },
+  {
+    "meter_id": "DEMO-0014",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.968200000206707,
+    "whole_call_ms": 30.94789999886416
+  },
+  {
+    "meter_id": "DEMO-0015",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.629399999743327,
+    "whole_call_ms": 29.9075000002631
+  },
+  {
+    "meter_id": "DEMO-0016",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.267000001476845,
+    "whole_call_ms": 27.81420000246726
+  },
+  {
+    "meter_id": "DEMO-0017",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 11.859099999128375,
+    "whole_call_ms": 32.42020000107004
+  },
+  {
+    "meter_id": "DEMO-0018",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 11.6691000002902,
+    "whole_call_ms": 29.949799998576054
+  },
+  {
+    "meter_id": "DEMO-0019",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 9.598500000720378,
+    "whole_call_ms": 29.407400001218775
+  },
+  {
+    "meter_id": "DEMO-0020",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.880500001803739,
+    "whole_call_ms": 30.18539999902714
+  },
+  {
+    "meter_id": "DEMO-0021",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 11.009900001226924,
+    "whole_call_ms": 28.040400000463706
+  },
+  {
+    "meter_id": "DEMO-0022",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.73270000051707,
+    "whole_call_ms": 32.714900000428315
+  },
+  {
+    "meter_id": "DEMO-0023",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 11.024999999790452,
+    "whole_call_ms": 31.868999998550862
+  },
+  {
+    "meter_id": "DEMO-0024",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.875099997065263,
+    "whole_call_ms": 30.845400000544032
+  },
+  {
+    "meter_id": "DEMO-0025",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 9.91760000033537,
+    "whole_call_ms": 27.66620000329567
+  },
+  {
+    "meter_id": "DEMO-0026",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 9.569400001055328,
+    "whole_call_ms": 26.954000000841916
+  },
+  {
+    "meter_id": "DEMO-0027",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 9.64419999945676,
+    "whole_call_ms": 28.775700000551296
+  },
+  {
+    "meter_id": "DEMO-0028",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 12.66830000167829,
+    "whole_call_ms": 30.427800000325078
+  },
+  {
+    "meter_id": "DEMO-0029",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 11.346400002366863,
+    "whole_call_ms": 28.055399998265784
+  },
+  {
+    "meter_id": "DEMO-0030",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.954699999274453,
+    "whole_call_ms": 29.855099997803336
+  },
+  {
+    "meter_id": "DEMO-0031",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.658700000931276,
+    "whole_call_ms": 29.184600000007777
+  },
+  {
+    "meter_id": "DEMO-0032",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 9.136200002103578,
+    "whole_call_ms": 26.162599999224767
+  },
+  {
+    "meter_id": "DEMO-0033",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 12.780400000337977,
+    "whole_call_ms": 29.431999999360414
+  },
+  {
+    "meter_id": "DEMO-0034",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.1810000014666,
+    "whole_call_ms": 28.882799997518305
+  },
+  {
+    "meter_id": "DEMO-0035",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.208499999862397,
+    "whole_call_ms": 28.660100000706734
+  },
+  {
+    "meter_id": "DEMO-0036",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 11.056600000301842,
+    "whole_call_ms": 28.179100001580082
+  },
+  {
+    "meter_id": "DEMO-0037",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 8.93530000030296,
+    "whole_call_ms": 26.483399997232482
+  },
+  {
+    "meter_id": "DEMO-0038",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 9.937300001183758,
+    "whole_call_ms": 30.25039999920409
+  },
+  {
+    "meter_id": "DEMO-0039",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 9.804699999222066,
+    "whole_call_ms": 29.139199999917764
+  },
+  {
+    "meter_id": "DEMO-0040",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 13.348300002689939,
+    "whole_call_ms": 35.1236999995308
+  },
+  {
+    "meter_id": "DEMO-0041",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.93380000020261,
+    "whole_call_ms": 29.403000000456814
+  },
+  {
+    "meter_id": "DEMO-0042",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.14740000027814,
+    "whole_call_ms": 27.979900001810165
+  },
+  {
+    "meter_id": "DEMO-0043",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 9.649999999965075,
+    "whole_call_ms": 28.838799997174647
+  },
+  {
+    "meter_id": "DEMO-0044",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 12.84010000017588,
+    "whole_call_ms": 32.301499999448424
+  },
+  {
+    "meter_id": "DEMO-0045",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 11.083199999120552,
+    "whole_call_ms": 32.58079999795882
+  },
+  {
+    "meter_id": "DEMO-0046",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 11.398799997550668,
+    "whole_call_ms": 32.31249999953434
+  },
+  {
+    "meter_id": "DEMO-0047",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 12.55249999667285,
+    "whole_call_ms": 31.98329999941052
+  },
+  {
+    "meter_id": "DEMO-0048",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 12.638899999728892,
+    "whole_call_ms": 32.11799999917275
+  },
+  {
+    "meter_id": "DEMO-0049",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 13.565699999162462,
+    "whole_call_ms": 36.14889999880688
+  },
+  {
+    "meter_id": "DEMO-0050",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 9.452499998587882,
+    "whole_call_ms": 28.22329999980866
+  },
+  {
+    "meter_id": "DEMO-0051",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 9.785099999135127,
+    "whole_call_ms": 28.76770000148099
+  },
+  {
+    "meter_id": "DEMO-0052",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 12.29349999994156,
+    "whole_call_ms": 30.679800001962576
+  },
+  {
+    "meter_id": "DEMO-0053",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 11.081900000135647,
+    "whole_call_ms": 27.929700001550373
+  },
+  {
+    "meter_id": "DEMO-0054",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 9.050500000739703,
+    "whole_call_ms": 27.48769999743672
+  },
+  {
+    "meter_id": "DEMO-0055",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 11.8094999997993,
+    "whole_call_ms": 32.46860000217566
+  },
+  {
+    "meter_id": "DEMO-0056",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.424899999634363,
+    "whole_call_ms": 31.132700001762714
+  },
+  {
+    "meter_id": "DEMO-0057",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.450400000991067,
+    "whole_call_ms": 27.725800002372125
+  },
+  {
+    "meter_id": "DEMO-0058",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 9.658800001488999,
+    "whole_call_ms": 27.856900000188034
+  },
+  {
+    "meter_id": "DEMO-0059",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.274899999785703,
+    "whole_call_ms": 28.686400000879075
+  },
+  {
+    "meter_id": "DEMO-0060",
+    "expected": "connected",
+    "actual": "connected",
+    "passed": true,
+    "fixture": "success",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 11.833800002932549,
+    "whole_call_ms": 28.27840000099968
+  },
+  {
+    "meter_id": "DEMO-0061",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "rejected",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.86819999909494,
+    "whole_call_ms": 37.2934000006353
+  },
+  {
+    "meter_id": "DEMO-0062",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "timeout",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 9.720399997604545,
+    "whole_call_ms": 37.72719999687979
+  },
+  {
+    "meter_id": "DEMO-0063",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "pending",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 11.834100001578918,
+    "whole_call_ms": 33.74500000063563
+  },
+  {
+    "meter_id": "DEMO-0064",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "wrong_receipt",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.362199998780852,
+    "whole_call_ms": 33.33480000219424
+  },
+  {
+    "meter_id": "DEMO-0065",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "rejected",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.44000000183587,
+    "whole_call_ms": 34.68580000117072
+  },
+  {
+    "meter_id": "DEMO-0066",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "timeout",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 11.411000003135996,
+    "whole_call_ms": 34.11489999780315
+  },
+  {
+    "meter_id": "DEMO-0067",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "pending",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.797000002639834,
+    "whole_call_ms": 33.20000000167056
+  },
+  {
+    "meter_id": "DEMO-0068",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "wrong_receipt",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 9.631300003093202,
+    "whole_call_ms": 30.873800002154894
+  },
+  {
+    "meter_id": "DEMO-0069",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "rejected",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 9.968400001525879,
+    "whole_call_ms": 36.283600002207095
+  },
+  {
+    "meter_id": "DEMO-0070",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "timeout",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 12.661699998716358,
+    "whole_call_ms": 37.84129999985453
+  },
+  {
+    "meter_id": "DEMO-0071",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "pending",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.188899999775458,
+    "whole_call_ms": 37.212799998087576
+  },
+  {
+    "meter_id": "DEMO-0072",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "wrong_receipt",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.843299998668954,
+    "whole_call_ms": 35.667000000103144
+  },
+  {
+    "meter_id": "DEMO-0073",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "rejected",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 12.20639999883133,
+    "whole_call_ms": 37.142900000617374
+  },
+  {
+    "meter_id": "DEMO-0074",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "timeout",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.262199997669086,
+    "whole_call_ms": 32.592299998214
+  },
+  {
+    "meter_id": "DEMO-0075",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "pending",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.540499999478925,
+    "whole_call_ms": 34.49639999962528
+  },
+  {
+    "meter_id": "DEMO-0076",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "wrong_receipt",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 9.236700003384613,
+    "whole_call_ms": 31.828700000914978
+  },
+  {
+    "meter_id": "DEMO-0077",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "rejected",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.107800000696443,
+    "whole_call_ms": 30.79029999935301
+  },
+  {
+    "meter_id": "DEMO-0078",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "timeout",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 10.026699997979449,
+    "whole_call_ms": 31.56490000037593
+  },
+  {
+    "meter_id": "DEMO-0079",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "pending",
+    "hes": "HES_ISKRA",
+    "request_elapsed_ms": 10.6242999972892,
+    "whole_call_ms": 32.47149999879184
+  },
+  {
+    "meter_id": "DEMO-0080",
+    "expected": "manual_required",
+    "actual": "manual_required",
+    "passed": true,
+    "fixture": "wrong_receipt",
+    "hes": "HES_SECURE",
+    "request_elapsed_ms": 8.84790000054636,
+    "whole_call_ms": 32.96749999935855
+  }
+]

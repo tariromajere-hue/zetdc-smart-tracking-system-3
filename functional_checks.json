@@ -1,0 +1,326 @@
+[
+  {
+    "group": "Tracking",
+    "name": "Password hashes are salted, not plaintext",
+    "passed": true,
+    "elapsed_ms": 605.6699999971897
+  },
+  {
+    "group": "Tracking",
+    "name": "Incorrect login password rejected",
+    "passed": true,
+    "elapsed_ms": 630.370099999709
+  },
+  {
+    "group": "Tracking",
+    "name": "Unknown account rejected",
+    "passed": true,
+    "elapsed_ms": 560.7663000009779
+  },
+  {
+    "group": "Tracking",
+    "name": "Unauthenticated register rejected",
+    "passed": true,
+    "elapsed_ms": 4.917199999908917
+  },
+  {
+    "group": "Tracking",
+    "name": "Contractor cannot register procurement",
+    "passed": true,
+    "elapsed_ms": 2.0421000008354895
+  },
+  {
+    "group": "Tracking",
+    "name": "Procurement can register meter",
+    "passed": true,
+    "elapsed_ms": 36.84920000159764
+  },
+  {
+    "group": "Tracking",
+    "name": "Duplicate meter rejected",
+    "passed": true,
+    "elapsed_ms": 2.608499999041669
+  },
+  {
+    "group": "Tracking",
+    "name": "Unknown HES rejected",
+    "passed": true,
+    "elapsed_ms": 1.6398000007029623
+  },
+  {
+    "group": "Tracking",
+    "name": "Bad releasing password blocks transfer",
+    "passed": true,
+    "elapsed_ms": 610.4422999997041
+  },
+  {
+    "group": "Tracking",
+    "name": "Bad receiving password blocks transfer",
+    "passed": true,
+    "elapsed_ms": 1236.3488000009966
+  },
+  {
+    "group": "Tracking",
+    "name": "Cannot skip to depot",
+    "passed": true,
+    "elapsed_ms": 1197.2781999975268
+  },
+  {
+    "group": "Tracking",
+    "name": "One person cannot sign twice",
+    "passed": true,
+    "elapsed_ms": 1210.5866999991122
+  },
+  {
+    "group": "Tracking",
+    "name": "Rejected signatures preserve custody",
+    "passed": true,
+    "elapsed_ms": 3.5742000000027474
+  },
+  {
+    "group": "Tracking",
+    "name": "Password handover procurement to stores",
+    "passed": true,
+    "elapsed_ms": 1251.6404999987572
+  },
+  {
+    "group": "Tracking",
+    "name": "Password handover stores to tester",
+    "passed": true,
+    "elapsed_ms": 1281.305099997553
+  },
+  {
+    "group": "Tracking",
+    "name": "Password handover tester to depot",
+    "passed": true,
+    "elapsed_ms": 1237.3058999983186
+  },
+  {
+    "group": "Tracking",
+    "name": "Password handover depot to installer",
+    "passed": true,
+    "elapsed_ms": 1220.933699998568
+  },
+  {
+    "group": "Tracking",
+    "name": "Repeated old handover rejected",
+    "passed": true,
+    "elapsed_ms": 1153.8733999987016
+  },
+  {
+    "group": "Tracking",
+    "name": "Custody audit contains both workers",
+    "passed": true,
+    "elapsed_ms": 14.68870000098832
+  },
+  {
+    "group": "Tracking",
+    "name": "Exactly 72 hours does not trigger overdue",
+    "passed": true,
+    "elapsed_ms": 4.969499997969251
+  },
+  {
+    "group": "Tracking",
+    "name": "72 hours plus one second triggers overdue",
+    "passed": true,
+    "elapsed_ms": 19.778099998802645
+  },
+  {
+    "group": "Tracking",
+    "name": "All three manager channels created",
+    "passed": true,
+    "elapsed_ms": 11.469400000351015
+  },
+  {
+    "group": "Tracking",
+    "name": "Repeat scheduler does not duplicate event",
+    "passed": true,
+    "elapsed_ms": 16.673699999955716
+  },
+  {
+    "group": "Tracking",
+    "name": "Elapsed duration is preserved",
+    "passed": true,
+    "elapsed_ms": 12.930999997479375
+  },
+  {
+    "group": "Tracking",
+    "name": "Email and WhatsApp simulated separately",
+    "passed": true,
+    "elapsed_ms": 52.83129999952507
+  },
+  {
+    "group": "Commissioning",
+    "name": "Non-contractor cannot commission",
+    "passed": true,
+    "elapsed_ms": 3.7229000008665025
+  },
+  {
+    "group": "Commissioning",
+    "name": "Unissued meter cannot commission",
+    "passed": true,
+    "elapsed_ms": 4.947500001435401
+  },
+  {
+    "group": "Commissioning",
+    "name": "Wrong account rejected",
+    "passed": true,
+    "elapsed_ms": 4.567400002997601
+  },
+  {
+    "group": "Commissioning",
+    "name": "Wrong CT rejected",
+    "passed": true,
+    "elapsed_ms": 3.7937000015517697
+  },
+  {
+    "group": "Commissioning",
+    "name": "Installation confirmation required",
+    "passed": true,
+    "elapsed_ms": 4.136400002607843
+  },
+  {
+    "group": "Commissioning",
+    "name": "Unknown meter rejected",
+    "passed": true,
+    "elapsed_ms": 3.2207000003836583
+  },
+  {
+    "group": "Commissioning",
+    "name": "80 fixed scenarios reach expected state",
+    "passed": true,
+    "elapsed_ms": 0.03739999738172628
+  },
+  {
+    "group": "Commissioning",
+    "name": "Connected request is idempotent",
+    "passed": true,
+    "elapsed_ms": 19.257600000855746
+  },
+  {
+    "group": "Commissioning",
+    "name": "Failure cannot automatically retry",
+    "passed": true,
+    "elapsed_ms": 3.9872999986982904
+  },
+  {
+    "group": "Commissioning",
+    "name": "All failed meters have three HES notifications",
+    "passed": true,
+    "elapsed_ms": 14.142899999569636
+  },
+  {
+    "group": "Commissioning",
+    "name": "Contractor cannot confirm manual completion",
+    "passed": true,
+    "elapsed_ms": 1.6713999975763727
+  },
+  {
+    "group": "Commissioning",
+    "name": "HES password is rechecked",
+    "passed": true,
+    "elapsed_ms": 551.7345999978716
+  },
+  {
+    "group": "Commissioning",
+    "name": "Unverified manual receipt is rejected",
+    "passed": true,
+    "elapsed_ms": 587.8698999986227
+  },
+  {
+    "group": "Commissioning",
+    "name": "20 manual simulator confirmations verified",
+    "passed": true,
+    "elapsed_ms": 0.01680000059423037
+  },
+  {
+    "group": "Commissioning",
+    "name": "Already completed manual confirmation rejected",
+    "passed": true,
+    "elapsed_ms": 494.25849999897764
+  },
+  {
+    "group": "Commissioning",
+    "name": "Interrupted request requires manual reconciliation",
+    "passed": true,
+    "elapsed_ms": 69.08620000103838
+  },
+  {
+    "group": "Notifications",
+    "name": "Provider failure remains failed, not delivered",
+    "passed": true,
+    "elapsed_ms": 1154.0991999972903
+  },
+  {
+    "group": "Notifications",
+    "name": "Failed notification can be retried independently",
+    "passed": true,
+    "elapsed_ms": 1147.3245000015595
+  },
+  {
+    "group": "Notifications",
+    "name": "Provider acceptance is not delivered status",
+    "passed": true,
+    "elapsed_ms": 12.546600002679043
+  },
+  {
+    "group": "Tracking",
+    "name": "Data survives service restart",
+    "passed": true,
+    "elapsed_ms": 18.621100000018487
+  },
+  {
+    "group": "Tracking",
+    "name": "Concurrent duplicate handovers transfer once",
+    "passed": true,
+    "elapsed_ms": 1313.829499998974
+  },
+  {
+    "group": "Tracking",
+    "name": "Logout revokes session",
+    "passed": true,
+    "elapsed_ms": 11.59909999842057
+  },
+  {
+    "group": "API",
+    "name": "Anonymous dashboard denied",
+    "passed": true,
+    "elapsed_ms": 72.96820000192383
+  },
+  {
+    "group": "API",
+    "name": "Login endpoint issues token",
+    "passed": true,
+    "elapsed_ms": 555.2738999977009
+  },
+  {
+    "group": "API",
+    "name": "Malformed commissioning body rejected",
+    "passed": true,
+    "elapsed_ms": 13.907999997172737
+  },
+  {
+    "group": "API",
+    "name": "Contractor cannot run manager alert job",
+    "passed": true,
+    "elapsed_ms": 12.013899999146815
+  },
+  {
+    "group": "API",
+    "name": "Unauthenticated cron denied",
+    "passed": true,
+    "elapsed_ms": 12.580100003106054
+  },
+  {
+    "group": "API",
+    "name": "HTTP commission returns confirmed simulator state",
+    "passed": true,
+    "elapsed_ms": 50.488799999584444
+  },
+  {
+    "group": "API",
+    "name": "Unknown barcode fails without connection",
+    "passed": true,
+    "elapsed_ms": 15.275600002496503
+  }
+]

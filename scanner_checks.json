@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Photograph decoder DEMO-0001",
+    "passed": true
+  },
+  {
+    "name": "Photograph decoder DEMO-0020",
+    "passed": true
+  },
+  {
+    "name": "Photograph decoder DEMO-0040",
+    "passed": true
+  },
+  {
+    "name": "Photograph decoder DEMO-0060",
+    "passed": true
+  },
+  {
+    "name": "Photograph decoder DEMO-0061",
+    "passed": true
+  },
+  {
+    "name": "Photograph decoder DEMO-0065",
+    "passed": true
+  },
+  {
+    "name": "Photograph decoder DEMO-0070",
+    "passed": true
+  },
+  {
+    "name": "Photograph decoder DEMO-0080",
+    "passed": true
+  },
+  {
+    "name": "Photograph decoder DEMO-0081",
+    "passed": true
+  },
+  {
+    "name": "Photograph decoder DEMO-0100",
+    "passed": true
+  },
+  {
+    "name": "Late camera stream stopped after cancellation",
+    "passed": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Dashboard loads 100 meters",
+    "passed": true
+  },
+  {
+    "name": "Three-day policy is visible",
+    "passed": true
+  },
+  {
+    "name": "Separate simulated email and WhatsApp statuses",
+    "passed": true
+  },
+  {
+    "name": "Custody form requires both password fields",
+    "passed": true
+  },
+  {
+    "name": "Unknown barcode rejected in browser",
+    "passed": true
+  },
+  {
+    "name": "Valid scan connects only with simulator receipt",
+    "passed": true
+  },
+  {
+    "name": "Failed connection shows manual HES queue",
+    "passed": true
+  },
+  {
+    "name": "HES officer verifies manual confirmation",
+    "passed": true
+  },
+  {
+    "name": "Mobile scanner fits viewport",
+    "passed": true
+  },
+  {
+    "name": "Unavailable camera retains manual and photo fallback",
+    "passed": true
+  },
+  {
+    "name": "No uncaught browser runtime errors",
+    "passed": true
+  }
+]
